@@ -21,7 +21,7 @@ A full-stack application that allows users to manage todos, generate AI summarie
 ### Backend Setup
 
 1. Navigate to the `backend` folder
-2. Create a `.env` file based on `.env.example` and fill in your credentials
+2. Create a `.env` file based on `.env` and fill in your credentials
 3. Install dependencies:
    ```bash
    npm install
